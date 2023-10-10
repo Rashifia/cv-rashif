@@ -1,0 +1,54 @@
+.bird {
+    color: cornflowerblue; font-size: 25px; font-family: 'Mooli', sans-serif;
+}
+h2 {
+    margin-left: 725px; color: brown; 
+}
+.key {
+    color: darkolivegreen; font-size: 25px; font-family: 'Mooli', sans-serif;
+}
+span {
+    font-weight: bold;
+}
+ 
+.yy{
+    font-style: italic; font-weight: normal;
+}
+.po, .MO{
+    font-weight: normal;
+    
+}
+#rref{
+    background-color: bisque; width: 200px; height: 75px;
+    border: 3px solid brown;
+}
+.po.I{
+    padding-right: 250px;
+}
+.po.II{
+    padding-right: 163px;
+}
+.po.III{
+    padding-right: 43px;
+}
+.MO.I{
+    padding-right: 250px; 
+}
+.MO.II{
+    padding-right: 230px;
+}
+.MO.III{
+    padding-right: 189px;
+}
+.MO.IV{
+    padding-right: 258px;
+}
+img{
+    margin-left: 750px;
+}
+.NH{
+    margin-left: 34px;
+}
+#link{
+    margin-left: 640px;
+}
